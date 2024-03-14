@@ -1,0 +1,7 @@
+requests
+setuptools
+oauth2client
+httplib2
+urllib3
+multi-mechanize
+matplotlib
